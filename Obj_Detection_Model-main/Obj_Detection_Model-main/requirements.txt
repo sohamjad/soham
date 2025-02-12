@@ -1,0 +1,7 @@
+opencv-python==4.5.5.64  # For image and video processing
+ultralytics==8.0.105  # YOLOv8 for object detection
+PyYAML==6.0  # For loading and parsing YAML files
+pytesseract==0.3.10  # For Optical Character Recognition (OCR)
+pdf2image==1.16.3  # For converting PDF pages to images
+numpy==1.21.6  # For numerical operations
+matplotlib==3.5.1  # For displaying images with bounding boxes

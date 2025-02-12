@@ -1,0 +1,4 @@
+pyttsx3==2.90  # Text-to-speech library
+SpeechRecognition==3.8.1  # For speech recognition
+wikipedia-api==0.5.4  # To fetch data from Wikipedia
+webbrowser==0.2  # For handling browser operations
